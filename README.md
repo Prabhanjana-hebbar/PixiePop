@@ -6,3 +6,14 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Pixie-Pop
+  
+#Browse and Save your Favorite Photos.The ultimate Photo Destination.
+#React Front-End Project 
+
+The Pixie-Pop frontend project effectively demonstrates how to combine React, JavaScript, and CSS to create an interactive photo gallery that allows users to browse, save, share, and download images. By utilizing React’s powerful features like useState, useEffect, and props, along with JavaScript array methods, Pixie-Pop ensures a seamless, dynamic user experience. Whether it's handling user actions, managing state, or rendering a responsive UI, Pixie-Pop leverages modern web technologies to provide a fun and functional way to engage with photos
+Take a look at my Pixie-Pop Ui
+<img src="https://github.com/user-attachments/assets/a6274e08-506e-4b2d-b5bf-2b6f43d07300"/>
+<img src="https://github.com/user-attachments/assets/3cb41c3d-2cdd-429e-8fe0-06f3701d9213"/>
