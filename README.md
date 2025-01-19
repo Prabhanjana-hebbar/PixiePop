@@ -15,5 +15,7 @@ Currently, two official plugins are available:
 
 The Pixie-Pop frontend project effectively demonstrates how to combine React, JavaScript, and CSS to create an interactive photo gallery that allows users to browse, save, share, and download images. By utilizing React’s powerful features like useState, useEffect, and props, along with JavaScript array methods, Pixie-Pop ensures a seamless, dynamic user experience. Whether it's handling user actions, managing state, or rendering a responsive UI, Pixie-Pop leverages modern web technologies to provide a fun and functional way to engage with photos
 Take a look at my Pixie-Pop Ui
-<img src="https://github.com/user-attachments/assets/a6274e08-506e-4b2d-b5bf-2b6f43d07300"/>
-<img src="https://github.com/user-attachments/assets/3cb41c3d-2cdd-429e-8fe0-06f3701d9213"/>
+<img src="https://github.com/user-attachments/assets/22e736d7-0a3e-4de8-991c-70cbfa4f80d4
+"/>
+<img src="https://github.com/user-attachments/assets/2291fa66-3c02-497a-af10-722ebf2397e5
+"/>
